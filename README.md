@@ -35,8 +35,7 @@
 
 <table>
 <tr>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=renanmessi1&show_icons=true&theme=dark&hide_border=true&border_radius=12&title_color=DC2626&icon_color=DC2626&text_color=FFFFFF&bg_color=0D1117" alt="Estatísticas do GitHub"/></td>
-<td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmessi1&layout=compact&theme=dark&hide_border=true&border_radius=12&title_color=DC2626&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens mais usadas"/></td>
+
 </tr>
 </table>
 
