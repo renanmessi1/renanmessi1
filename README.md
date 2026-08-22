@@ -14,9 +14,6 @@
 - 🖥️ Técnico em Informática formado pelo **CEMEP**
 - 🐍 Foco em **Python, SQL, Flask** e bancos de dados relacionais
 - 🤖 Interesse em **Inteligência Artificial** aplicada a soluções reais
-- 🚀 Já desenvolvi os projetos **S.A.N.E.** (sistema web para pequenas empresas) e **DITO** (plataforma de gerenciamento de cuidados)
-- 🌱 Sempre aprendendo, resolvendo problemas e colaborando em equipe
-- 📍 Sumaré, SP — Brasil
 
 <br>
 
