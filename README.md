@@ -1,11 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=180&section=header&text=Lucas%20Renan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&fontFamily=Poppins&animation=fadeIn&desc=Tecnologia%20%7C%20Python%20%7C%20SQL%20%7C%20IA&descSize=18&descAlignY=58&stroke=7F1D1D&strokeWidth=1" width="100%" alt="Banner Lucas Renan"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&duration=3000&pause=1200&color=DC2626&center=true&vCenter=true&width=600&height=45&lines=Python+%7C+SQL+%7C+Flask+%7C+IA;Sempre+aprendendo+algo+novo;Focado+em+resolver+problemas+reais" alt="Frase animada"/>
-
-<h3>💻 Código &nbsp;|&nbsp; ☕ Café &nbsp;|&nbsp; 🤖 IA &nbsp;|&nbsp; 📚 Aprendizado</h3>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=160&section=header&text=Lucas%20Renan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&fontFamily=Fira%20Code&desc=Tecnologia%20%7C%20Python%20%7C%20SQL%20%7C%20IA&descSize=18&descAlignY=68&stroke=7F1D1D&strokeWidth=1" width="100%" alt="Banner Lucas Renan"/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=DC2626&center=true&vCenter=true&width=700&height=45&lines=Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds" alt="Citação Linus Torvalds"/>
+  
+  <h3>💻 Código &nbsp;|&nbsp; ☕ Café &nbsp;|&nbsp; 🤖 IA &nbsp;|&nbsp; 📚 Aprendizado</h3>
 </div>
 
 <br>
@@ -26,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,html,css&theme=dark&perline=7" alt="Ferramentas e tecnologias"/>
+<img src="https://skillicons.dev/icons?i=python,c,flask,mysql,git,github,html,css&theme=dark&perline=7" alt="Ferramentas e tecnologias"/>
 
 </div>
 
