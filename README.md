@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=DC2626&height=160&section=header&text=Lucas%20Renan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&fontFamily=Fira%20Code&desc=Tecnologia%20%7C%20Python%20%7C%20SQL%20%7C%20IA&descSize=18&descAlignY=68&stroke=7F1D1D&strokeWidth=1" width="100%" alt="Banner Lucas Renan"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=Lucas%20Renan&fontSize=48&fontColor=FFFFFF&fontAlignY=40&fontFamily=Fira%20Code&desc=Tecnologia%20%7C%20Python%20%7C%20SQL%20%7C%20IA&descSize=18&descAlignY=68&stroke=7F1D1D&strokeWidth=1" width="100%" alt="Banner Lucas Renan"/>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1500&color=DC2626&center=true&vCenter=true&width=700&height=45&lines=Talk+is+cheap.+Show+me+the+code.+%E2%80%94+Linus+Torvalds" alt="Citação Linus Torvalds"/>
   
